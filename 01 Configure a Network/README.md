@@ -1,8 +1,8 @@
 # BeCode Group Project #1
 
-**Duration:** 4 days
-**Deadline:** 25/10/2024
-**Group Members:** Serena, Stéphane & Maureen
+**Duration:** 4 days    
+**Deadline:** 25/10/2024    
+**Group Members:** Serena, Stéphane & Maureen    
 
 ## Project context
 
